@@ -54,6 +54,11 @@
   font-family: "Google Sans Medium";
 }
 
+.experience-header-detail-text.subTitle {
+  line-height: 40px;
+  text-align: left;
+}
+
 @media (max-width: 1380px) {
   .experience-heading-text {
     font-size: 50px;
