@@ -155,7 +155,7 @@ fetch(baseUrl, {
     cropped["merged"] = merged;
     cropped["totalCount"] = cropped["data"].length;
 
-    console.log("Fetching the Pull Request Data.\n");
+    console.log("Fetching the Pull Request Data.\n", cropped);
     fs.writeFile(
       "./src/shared/opensource/pull_requests.json",
       JSON.stringify(cropped),
