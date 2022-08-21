@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "An enthusiastic techie working on cross-platform application development on the JavaScript stack who enjoys architecting Web and Mobile applications. Always eager to extend/share and cooperate with other devs that have a similar enthusiasm.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1svM2XdCiB9UJXHg6-rvOWzsUbnbQH75v/view?usp=sharing",
   portfolio_repository:
     "https://github.com/Abishek-Amstrong/abishek-amstrong-portfolio",
   githubProfile: "https://github.com/Abishek-Amstrong",
